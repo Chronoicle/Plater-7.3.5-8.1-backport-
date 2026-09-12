@@ -10,11 +10,6 @@
 A patch kit that makes **Plater Nameplates v8.1.0.222** run on the **Legion 7.3.5** client, so you get
 NPC colours, scripts, mods and animations on a client that shipped before any of them existed.
 
-> **This repository does not contain Plater.** Plater is published under an
-> All Rights Reserved licence, so it is not redistributed here. You download it yourself from the
-> author's repository, then apply the patches below. Everything in this repo is either original
-> helper code or a description of the edits to make.
-
 ---
 
 ## What you get
